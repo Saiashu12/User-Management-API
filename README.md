@@ -23,7 +23,7 @@ cd User-Management_API
 
 ```bash
 npm install
-
+```
 
 3. Create a `.env` file from `.env.example` and set your environment variables.
 
@@ -31,7 +31,7 @@ npm install
 
 ```bash
 npm start
-
+```
 Either on POSTMAN API or on Terminal
 
 
@@ -64,7 +64,7 @@ curl -X POST http://localhost:5000/api/users \
    }
  }
 }'
-
+```
 
 
 ---
@@ -77,3 +77,4 @@ Once you've pasted all these into the right files, you're ready to:
 
 ```bash
 npm start
+```
